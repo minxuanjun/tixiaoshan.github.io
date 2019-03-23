@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-![](/pics/iros2019-unet.png =250x250)
+![](/pics/iros2019-unet.png)
