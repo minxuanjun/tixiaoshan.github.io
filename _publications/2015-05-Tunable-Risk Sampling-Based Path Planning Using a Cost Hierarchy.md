@@ -1,7 +1,7 @@
 ---
 title: "Tunable-Risk Sampling-Based Path Planning Using a Cost Hierarchy"
 collection: publications
-permalink: /publication/Tunable-Risk-Sampling-Based-Path-Planning-Using-a-Cost-Hierarchy
+permalink: /publication/2015-05-icra-workshop
 <!-- excerpt: 'This paper is about the number 1. The number 2 is left for future work.' -->
 date: 2009-05
 venue: 'ICRA 2015 Workshop on Beyond Geometric Constraints: Planning for Solving Complex Tasks, Reducing Uncertainty, and Generating Informative Paths and Policies'
