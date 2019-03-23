@@ -1,5 +1,12 @@
 # main links links
 main:
+
+  - title: "Videos"
+    url: /videos/
+
+  - title: "Research"
+    url: /research/
+
   - title: "Publications"
     url: /publications/
 
