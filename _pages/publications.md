@@ -24,14 +24,3 @@ author_profile: true
 * T. Shan and B. Englot, "Sampling-Based Minimum Risk Path Planning in Multiobjective Configuration Spaces," Proceedings of the IEEE International Conference on Decision and Control, pp. 814-821, December 2015. ([Link to IEEExplore](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7402330&filter=AND%28p_Publication_Number:7396016%29))
 
 * T. Shan and B. Englot, "Tunable-Risk Sampling-Based Path Planning Using a Cost Hierarchy," ICRA 2015 Workshop on Beyond Geometric Constraints: Planning for Solving Complex Tasks, Reducing Uncertainty, and Generating Informative Paths and Policies, 2 pp., May 2015. ([Link to Workshop Website](http://people.csail.mit.edu/jingjin/ICRA15))
-
-<!-- {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
- -->
