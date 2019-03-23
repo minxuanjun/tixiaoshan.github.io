@@ -4,7 +4,7 @@ title: ""
 permalink: /videos/
 author_profile: true
 redirect_from:
-  - /resume
+  - /videos
 ---
 
 {% include base_path %}
