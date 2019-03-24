@@ -18,5 +18,11 @@ We propose a methodology for lidar super-resolution with ground vehicles driving
     <img src="/_pages/pics/iros2019-ouster.gif" alt="drawing" width="400"/> <img src="/_pages/pics/iros2019-vlp16.gif" alt="drawing" width="400"/>
 </p>
 
-Education
+Traversability Mapping
 ======
+We propose a new approach for traversability mapping with sparse lidar scans collected by ground vehicles, which leverages probabilistic inference to build descriptive terrain maps. Enabled by recent developments in sparse kernels, Bayesian generalized kernel inference is applied sequentially to the related problems of terrain elevation and traversability inference. The first inference step allows sparse data to support descriptive terrain modeling, and the second inference step relieves the burden typically associated with traversability computation. We explore the capabilities of the approach over a variety of data and terrain, demonstrating its suitability for online use in real-world applications.
+
+<p align='center'>
+    <img src="/_pages/pics/corl2018-bgk-1.gif" alt="drawing" width="400"/> <img src="/_pages/pics/corl2018-bgk-2.gif" alt="drawing" width="400"/>
+    <img src="/_pages/pics/corl2018-bgk-3.gif" alt="drawing" width="400"/> <img src="/_pages/pics/corl2018-bgk-4.gif" alt="drawing" width="400"/>
+</p>
