@@ -38,8 +38,16 @@ We propose a new approach for traversability mapping with sparse lidar scans col
 
 Belief Roadmap Search
 ======
-We characterize and propose advances in the technique of Belief Roadmap Search (BRMS), the process of searching a roadmap in belief space for robot motion planning under localization uncertainty. We discuss the conditions required for optimal substructure in the single-source search of a roadmap in belief space, demonstrating that there are several desirable cost functions for which this property cannot be achieved. Practical performance issues of BRMS are discussed, including the implications of a commonly-used anti-cycling rule, and the computational complexity realized in practical applications of the technique. We propose a best-first implementation of BRMS, in contrast to the standard breadth-first implementation, which we show to improve the computational cost of search by up to 49\% by eliminating unnecessary node expansions - the mechanics of both approaches are compared in detail. A variety of motion planning examples are explored.
+We characterize and propose advances in the technique of Belief Roadmap Search (BRMS), the process of searching a roadmap in belief space for robot motion planning under localization uncertainty. We discuss the conditions required for optimal substructure in the single-source search of a roadmap in belief space, demonstrating that there are several desirable cost functions for which this property cannot be achieved. Practical performance issues of BRMS are discussed, including the implications of a commonly-used anti-cycling rule, and the computational complexity realized in practical applications of the technique. We propose a best-first implementation of BRMS, in contrast to the standard breadth-first implementation, which we show to improve the computational cost of search by up to 49% by eliminating unnecessary node expansions - the mechanics of both approaches are compared in detail. A variety of motion planning examples are explored.
 
 <p align='center'>
     <img src="/_pages/pics/iros2017-brms.gif" alt="drawing" width="800"/>
+</p>
+
+Sampling-Based Min-Max Uncertainty Path Planning
+======
+We propose a new sampling-based path planning algorithm, the Min-Max Rapidly Exploring Random Tree (MM-RRT), for robot path planning under localization uncertainty. The projected growth of error in a robot's state estimate is curbed by minimizing the maximum state estimate uncertainty encountered on a path. The algorithm builds and maintains a tree that is shared in state space and belief space, with a single belief per robot state. Due to the fact that many states will share the same maximum uncertainty, resulting from a shared parent node, the algorithm uses secondary objective functions to break ties among neighboring nodes with identical maximum uncertainty. The algorithm offers a compelling alternative to sampling-based algorithms with additive cost representations of uncertainty, which will penalize high-precision navigation routes that are longer in duration.
+
+<p align='center'>
+    <img src="/_pages/pics/cdc2016-baseline.gif" alt="drawing" width="400" title='Baseline'/> <img src="/_pages/pics/cdc2016-ours.gif" alt="drawing" width="400" title='MM-RRT*'/>
 </p>
