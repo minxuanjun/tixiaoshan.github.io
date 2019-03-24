@@ -15,6 +15,7 @@ We propose a methodology for lidar super-resolution with ground vehicles driving
 
 <!-- ![very good|512x397,5%](/_pages/pics/iros2019-unet.png) -->
 <img src="/_pages/pics/iros2019-unet.png" alt="drawing" width="200"/>
+<em>image_caption</em>
 
 Education
 ======
