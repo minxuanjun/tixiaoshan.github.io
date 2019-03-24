@@ -46,8 +46,16 @@ We characterize and propose advances in the technique of Belief Roadmap Search (
 
 Sampling-Based Min-Max Uncertainty Path Planning
 ======
-We propose a new sampling-based path planning algorithm, the Min-Max Rapidly Exploring Random Tree (MM-RRT), for robot path planning under localization uncertainty. The projected growth of error in a robot's state estimate is curbed by minimizing the maximum state estimate uncertainty encountered on a path. The algorithm builds and maintains a tree that is shared in state space and belief space, with a single belief per robot state. Due to the fact that many states will share the same maximum uncertainty, resulting from a shared parent node, the algorithm uses secondary objective functions to break ties among neighboring nodes with identical maximum uncertainty. The algorithm offers a compelling alternative to sampling-based algorithms with additive cost representations of uncertainty, which will penalize high-precision navigation routes that are longer in duration.
+We propose a new sampling-based path planning algorithm, the Min-Max Rapidly Exploring Random Tree (MM-RRT\*), for robot path planning under localization uncertainty. The projected growth of error in a robot's state estimate is curbed by minimizing the maximum state estimate uncertainty encountered on a path. The algorithm builds and maintains a tree that is shared in state space and belief space, with a single belief per robot state. Due to the fact that many states will share the same maximum uncertainty, resulting from a shared parent node, the algorithm uses secondary objective functions to break ties among neighboring nodes with identical maximum uncertainty. The algorithm offers a compelling alternative to sampling-based algorithms with additive cost representations of uncertainty, which will penalize high-precision navigation routes that are longer in duration.
 
 <p align='center'>
-    <img src="/_pages/pics/cdc2016-baseline.gif" alt="drawing" width="400" title='Baseline'/> <img src="/_pages/pics/cdc2016-ours.gif" alt="drawing" width="400" title='MM-RRT*'/>
+    <img src="/_pages/pics/cdc2016-baseline.gif" alt="drawing" width="400"/> <img src="/_pages/pics/cdc2016-ours.gif" alt="drawing" width="400"/>
+</p>
+
+Sampling-Based Minimum Risk Path Plannin
+======
+We propose a new sampling-based path planning algorithm, the Optimal Minimum Risk Rapidly Exploring Random Tree (MR-RRT\*), that plans minimum risk paths in accordance with primary and secondary cost criteria. The primary cost criterion is a user-defined measure of accumulated risk, which may represent proximity to obstacles, exposure to threats, or similar. Risk is only penalized in areas of the configuration space where it exceeds a user-defined threshold, causing many graph nodes to achieve identical primary cost. The algorithm uses a secondary cost criterion to break ties in primary cost. The proposed method affords the user the flexibility to tune the relative importance of the alternate cost criteria, while adhering to the requirements for asymptotically optimal planning with respect to the primary cost. The algorithm's performance is compared with T-RRT\*, another optimal tunable-risk planning algorithm, in a series of computational examples with different representations of risk. 
+
+<p align='center'>
+    <img src="/_pages/pics/cdc2015-safe-dist-0.5.gif" alt="drawing" width="200"/> <img src="/_pages/pics/cdc2015-safe-dist-1.gif" alt="drawing" width="200"/> <img src="/_pages/pics/cdc2015-safe-dist-2.gif" alt="drawing" width="200"/> <img src="/_pages/pics/cdc2015-safe-dist-inf.gif" alt="drawing" width="200"/>
 </p>
