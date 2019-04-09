@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-[Please download my CV at this link.]("http://tixiaoshan.github.io/_pages/Curriculum_Vitae.pdf")
+[Please download my CV at this link.]("https://tixiaoshan.github.io/_pages/Curriculum_Vitae.pdf")
 
 
-<object data="http://tixiaoshan.github.io/_pages/Curriculum_Vitae.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://tixiaoshan.github.io/_pages/Curriculum_Vitae.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+<object data="https://tixiaoshan.github.io/_pages/Curriculum_Vitae.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://tixiaoshan.github.io/_pages/Curriculum_Vitae.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://tixiaoshan.github.io/_pages/Curriculum_Vitae.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
