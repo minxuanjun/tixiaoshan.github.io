@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my CV.](https://tixiaoshan.github.io/_pages/CV.pdf)
+[Download my CV](https://tixiaoshan.github.io/_pages/CV.pdf)
 
 
 <object data="https://tixiaoshan.github.io/_pages/CV.pdf" type="application/pdf" width="700px" height="700px">
