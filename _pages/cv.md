@@ -9,18 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-[Please download my CV at this link.]("https://tixiaoshan.github.io/_pages/Curriculum_Vitae.pdf")
+[Download my CV.](https://tixiaoshan.github.io/_pages/Curriculum_Vitae.pdf)
 
 
 <object data="https://tixiaoshan.github.io/_pages/Curriculum_Vitae.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://tixiaoshan.github.io/_pages/Curriculum_Vitae.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://tixiaoshan.github.io/_pages/Curriculum_Vitae.pdf">Download PDF</a>.</p>
+        <!-- <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://tixiaoshan.github.io/_pages/Curriculum_Vitae.pdf">Download PDF</a>.</p> -->
     </embed>
 </object>
 
-sss
 
-<object width="400" height="400" data="https://tixiaoshan.github.io/_pages/Curriculum_Vitae.pdf"></object>
+<!-- <object width="400" height="400" data="https://tixiaoshan.github.io/_pages/Curriculum_Vitae.pdf"></object> -->
 
 <!-- Education
 ======
