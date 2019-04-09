@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[Please download my CV at this link.]("/_pages/Curriculum_Vitae.pdf")
+[Please download my CV at this link.]("http://tixiaoshan.github.io/_pages/Curriculum_Vitae.pdf")
 
-Education
+<!-- Education
 ======
 * Ph.D in Mechanical Engineering, Stevens Institute of Technology, 2019
 * M.S. in Mechanical Electronics Engineering, Shanghai University, 2014
@@ -46,3 +46,4 @@ Skills
 Publications
 ======
 * sa
+ -->
