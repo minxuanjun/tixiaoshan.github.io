@@ -11,6 +11,15 @@ redirect_from:
 
 [Please download my CV at this link.]("http://tixiaoshan.github.io/_pages/Curriculum_Vitae.pdf")
 
+
+<object data="http://tixiaoshan.github.io/_pages/Curriculum_Vitae.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="http://tixiaoshan.github.io/_pages/Curriculum_Vitae.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+
 <!-- Education
 ======
 * Ph.D in Mechanical Engineering, Stevens Institute of Technology, 2019
