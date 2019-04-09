@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Please download my CV at this link.]("/_pages/Curriculum_Vitae.pdf")
+
 Education
 ======
 * Ph.D in Mechanical Engineering, Stevens Institute of Technology, 2019
