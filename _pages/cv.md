@@ -18,7 +18,9 @@ redirect_from:
     </embed>
 </object>
 
+sss
 
+<object width="400" height="400" data="https://tixiaoshan.github.io/_pages/Curriculum_Vitae.pdf"></object>
 
 <!-- Education
 ======
