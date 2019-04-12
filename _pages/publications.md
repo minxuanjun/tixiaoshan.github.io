@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+* **T. Shan**, J. Wang, and B. Englot, "Simulation-based Lidar Super-resolution for Ground Vehicles," IEEE/RSJ International Conference on Intelligent Robots and Systems, under review.
+
+* J. Wang, **T. Shan**, and B. Englot, "Virtual Maps for Autonomous Exploration with Pose SLAM," IEEE/RSJ International Conference on Intelligent Robots and Systems, under review.
+
 * K. Doherty, **T. Shan**, J. Wang, and B. Englot, "Learning-aided 3D Occupancy Mapping with Bayesian Generalized Kernel Inference," IEEE Transactions on Robotics, Accepted, To Appear.
 
 * J. Wang, **T. Shan**, and B. Englot, "Underwater Terrain Reconstruction from Forward-Looking Sonar Imagery," IEEE International Conference on Robotics and Automation, Accepted, To Appear in May 2019. ([Full Text](http://personal.stevens.edu/~benglot/Wang_ICRA_2019.pdf), [Video Attachment](http://personal.stevens.edu/~benglot/Wang_ICRA_2019_video.mp4))
