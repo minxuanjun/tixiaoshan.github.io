@@ -25,6 +25,7 @@ We propose a methodology for the automated detection and tracking of an underwat
 <p align='center'>
 <!--     <img src="/_pages/pics/iros2019-unet.png" alt="drawing" width="800"/> -->
     <img src="/_pages/pics/bluerov.png" alt="drawing" width="400"/> <img src="/_pages/pics/bluerov-camera.png" alt="drawing" width="400"/>
+    <img src="/_pages/pics/bluerov-tracking.gif" alt="drawing" width="800"/>
 </p>
 
 [LeGO-LOAM](https://www.youtube.com/watch?v=O3tz_ftHV48)
