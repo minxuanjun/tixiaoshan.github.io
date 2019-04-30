@@ -23,9 +23,7 @@ We propose a methodology for lidar super-resolution with ground vehicles driving
 We propose a methodology for the automated detection and tracking of an underwater pipeline along the seafloor by an autonomous underwater vehicle (AUV) or remotely operated vehicle (ROV) equipped with a forward-looking multibeam imaging sonar. After training on a few hundred representative hand-segmented images, we use U-Net to segment sonar imagery in real-time and detect any portions of pipeline present in the imagery. The geometry of the pipeline is estimated by applying polynomial regression to a skeletonization of the detected pipe segments, and this is used for repeatedly issuing waypoints to the underwater robot performing the inspection, allowing an AUV or ROV to perform a full-coverage automated flyover of a pipeline that is visible along the seafloor. The proposed framework is tested and validated using a BlueROV2 robot equipped with an RTI SeaPilot Doppler velocity log, a VectorNav VN100 inertial measurement unit, and an Oculus multibeam imaging sonar.
 
 <p align='center'>
-<!--     <img src="/_pages/pics/iros2019-unet.png" alt="drawing" width="800"/> -->
-    <img src="/_pages/pics/bluerov.png" alt="drawing" width="400"/> <img src="/_pages/pics/bluerov-camera.png" alt="drawing" width="400"/>
-    <img src="/_pages/pics/bluerov-tracking.gif" alt="drawing" width="800"/>
+    <img src="/_pages/pics/bluerov.png" alt="drawing" width="200"/> <img src="/_pages/pics/bluerov-tracking.gif" alt="drawing" width="600"/>
 </p>
 
 [LeGO-LOAM](https://www.youtube.com/watch?v=O3tz_ftHV48)
