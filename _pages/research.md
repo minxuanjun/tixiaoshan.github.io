@@ -43,7 +43,7 @@ We propose a new approach for traversability mapping with sparse lidar scans col
     <img src="/_pages/pics/corl2018-bgk-3.gif" alt="drawing" width="400"/> <img src="/_pages/pics/corl2018-bgk-4.gif" alt="drawing" width="400"/>
 </p>
 
-Belief Roadmap Search
+[Belief Roadmap Search](http://ieeexplore.ieee.org/document/8206425/)
 ======
 We characterize and propose advances in the technique of Belief Roadmap Search (BRMS), the process of searching a roadmap in belief space for robot motion planning under localization uncertainty. We discuss the conditions required for optimal substructure in the single-source search of a roadmap in belief space, demonstrating that there are several desirable cost functions for which this property cannot be achieved. Practical performance issues of BRMS are discussed, including the implications of a commonly-used anti-cycling rule, and the computational complexity realized in practical applications of the technique. We propose a best-first implementation of BRMS, in contrast to the standard breadth-first implementation, which we show to improve the computational cost of search by up to 49% by eliminating unnecessary node expansions - the mechanics of both approaches are compared in detail. A variety of motion planning examples are explored.
 
@@ -51,7 +51,7 @@ We characterize and propose advances in the technique of Belief Roadmap Search (
     <img src="/_pages/pics/iros2017-brms.gif" alt="drawing" width="400"/>
 </p>
 
-Sampling-Based Min-Max Uncertainty Path Planning
+[Sampling-Based Min-Max Uncertainty Path Planning](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7799326)
 ======
 We propose a new sampling-based path planning algorithm, the Min-Max Rapidly Exploring Random Tree (MM-RRT\*), for robot path planning under localization uncertainty. The projected growth of error in a robot's state estimate is curbed by minimizing the maximum state estimate uncertainty encountered on a path. The algorithm builds and maintains a tree that is shared in state space and belief space, with a single belief per robot state. Due to the fact that many states will share the same maximum uncertainty, resulting from a shared parent node, the algorithm uses secondary objective functions to break ties among neighboring nodes with identical maximum uncertainty. The algorithm offers a compelling alternative to sampling-based algorithms with additive cost representations of uncertainty, which will penalize high-precision navigation routes that are longer in duration.
 
@@ -59,7 +59,7 @@ We propose a new sampling-based path planning algorithm, the Min-Max Rapidly Exp
     <img src="/_pages/pics/cdc2016-baseline.gif" alt="drawing" width="250"/> <img src="/_pages/pics/cdc2016-ours.gif" alt="drawing" width="250"/>
 </p>
 
-Sampling-Based Minimum Risk Path Planning
+[Sampling-Based Minimum Risk Path Planning](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7402330&filter=AND%28p_Publication_Number:7396016%29)
 ======
 We propose a new sampling-based path planning algorithm, the Optimal Minimum Risk Rapidly Exploring Random Tree (MR-RRT\*), that plans minimum risk paths in accordance with primary and secondary cost criteria. The primary cost criterion is a user-defined measure of accumulated risk, which may represent proximity to obstacles, exposure to threats, or similar. Risk is only penalized in areas of the configuration space where it exceeds a user-defined threshold, causing many graph nodes to achieve identical primary cost. The algorithm uses a secondary cost criterion to break ties in primary cost. The proposed method affords the user the flexibility to tune the relative importance of the alternate cost criteria, while adhering to the requirements for asymptotically optimal planning with respect to the primary cost. The algorithm's performance is compared with T-RRT\*, another optimal tunable-risk planning algorithm, in a series of computational examples with different representations of risk. 
 
