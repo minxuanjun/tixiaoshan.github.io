@@ -11,13 +11,13 @@ author_profile: true
 
 * J. Wang, **T. Shan**, and B. Englot, "Virtual Maps for Autonomous Exploration with Pose SLAM," IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), under review, [Video Attachment.](https://youtu.be/apZyhWtNyF0)
 
-* J. Wang, **T. Shan**, T. Osedach, and B. Englot, "Deep Learning for Detection and Tracking of Underwater Pipelines using Multibeam Imaging Sonar," IEEE International Conference onRobotics and Automation (ICRA) Workshop, 2019, [Text](http://personal.stevens.edu/~benglot/Wang_ICRA_2019_UWPerceptionWorkshop.pdf), [Video Attachment](https://www.youtube.com/watch?v=CDDewRptzrw).
+* J. Wang, **T. Shan**, T. Osedach, and B. Englot, "Deep Learning for Detection and Tracking of Underwater Pipelines using Multibeam Imaging Sonar," IEEE International Conference onRobotics and Automation (ICRA) Workshop, 2019, [Full Text](http://personal.stevens.edu/~benglot/Wang_ICRA_2019_UWPerceptionWorkshop.pdf), [Video Attachment](https://www.youtube.com/watch?v=CDDewRptzrw).
 
-* K. Doherty, **T. Shan**, J. Wang, and B. Englot, "Learning-aided 3D Occupancy Mapping with Bayesian Generalized Kernel Inference," IEEE Transactions on Robotics (T-RO), DOI: 10.1109/TRO.2019.2912487, [Video Attachment.](https://youtu.be/SRXLMALpU20)
+* K. Doherty, **T. Shan**, J. Wang, and B. Englot, "Learning-aided 3D Occupancy Mapping with Bayesian Generalized Kernel Inference," IEEE Transactions on Robotics (T-RO), DOI:10.1109/TRO.2019.2912487, [Video Attachment](https://youtu.be/SRXLMALpU20).
 
 * J. Wang, **T. Shan**, and B. Englot, "Underwater Terrain Reconstruction from Forward-Looking Sonar Imagery," IEEE International Conference on Robotics and Automation (ICRA), Accepted, To Appear in May 2019. ([Full Text](http://personal.stevens.edu/~benglot/Wang_ICRA_2019.pdf), [Video Attachment](http://personal.stevens.edu/~benglot/Wang_ICRA_2019_video.mp4))
 
-* F. Chen, S. Bai, **T. Shan**, and B. Englot, "Self-Learning Exploration and Mapping for Mobile Robots via Deep Reinforcement Learning," AIAA SciTech Forum, https://doi.org/10.2514/6.2019-0396, 11 pp., January 2019. ([Full Text](http://personal.stevens.edu/~benglot/aiaa2019-Fanfei-Chen.pdf), [Video Attachment](https://www.youtube.com/watch?v=2gNF6efv12s))
+* F. Chen, S. Bai, **T. Shan**, and B. Englot, "Self-Learning Exploration and Mapping for Mobile Robots via Deep Reinforcement Learning," AIAA SciTech Forum, DOI:10.2514/6.2019-0396, 11 pp., January 2019. ([Full Text](http://personal.stevens.edu/~benglot/aiaa2019-Fanfei-Chen.pdf), [Video Attachment](https://www.youtube.com/watch?v=2gNF6efv12s))
 
 * **T. Shan**, K. Doherty, J. Wang, and B. Englot, "Bayesian Generalized Kernel Inference for Terrain Traversability Mapping," 2nd Annual Conference on Robot Learning (CoRL), vol. 87, pp. 829-838, October 2018. ([Full Text at PMLR](http://proceedings.mlr.press/v87/shan18a/shan18a.pdf), [Video Attachment](https://youtu.be/4pdBpeRGXmw))
 
