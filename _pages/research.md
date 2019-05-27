@@ -43,8 +43,9 @@ We propose a new approach for traversability mapping with sparse lidar scans col
 
 <p align='center'>
     <img src="/_pages/pics/corl2018-bgk-1.gif" alt="drawing" width="400"/> <img src="/_pages/pics/corl2018-bgk-2.gif" alt="drawing" width="400"/>
-    <img src="/_pages/pics/corl2018-bgk-3.gif" alt="drawing" width="400"/> <img src="/_pages/pics/corl2018-bgk-4.gif" alt="drawing" width="400"/>
-    <img src="/_pages/pics/path-planning-garage.gif" alt="drawing" width="400"/> <img src="/_pages/pics/path-planning-stevens.gif" alt="drawing" width="400"/>
+<!--     <img src="/_pages/pics/corl2018-bgk-3.gif" alt="drawing" width="400"/> <img src="/_pages/pics/corl2018-bgk-4.gif" alt="drawing" width="400"/> -->
+<!--     <img src="/_pages/pics/path-planning-garage.gif" alt="drawing" width="400"/> <img src="/_pages/pics/path-planning-stevens.gif" alt="drawing" width="400"/> -->
+    <img src="/_pages/pics/corl2018-bgk-4.gif" alt="drawing" width="400"/> <img src="/_pages/pics/path-planning-garage.gif" alt="drawing" width="400"/>
 </p>
 
 [Belief Roadmap Search](http://ieeexplore.ieee.org/document/8206425/)
