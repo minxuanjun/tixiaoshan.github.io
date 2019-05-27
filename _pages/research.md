@@ -10,6 +10,7 @@ redirect_from:
 {% include base_path %}
 
 * click title for more information
+* page may take a while to load
 
 [Lidar Super-resolution](https://www.youtube.com/watch?v=rNVTpkz2ggY) 
 ======
