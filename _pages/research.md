@@ -16,9 +16,8 @@ redirect_from:
 We propose a methodology for lidar super-resolution with ground vehicles driving on roadways, which relies completely on a driving simulator to enhance, via deep learning, the apparent resolution of a physical lidar. To increase the resolution of the point cloud captured by a sparse 3D lidar, we convert this problem from 3D Euclidean space into an image super-resolution problem in 2D image space, which is solved using a deep convolutional neural network. We give the results of quantitative and qualitative tests using several real-world data-sets, which feature three different vehicle-mounted 3D lidars driven on urban and suburban roadways. We argue for the method's potential benefits in real-world robotics applications such as occupancy mapping and terrain modeling.
 
 <p align='center'>
-    <img src="/_pages/pics/iros2019-unet.png" alt="drawing" width="600"/>
-    <img src="https://i.imgur.com/kFi74S4.gif" alt="drawing" width="600"/>
-<!--     <img src="/_pages/pics/iros2019-ouster.gif" alt="drawing" width="400"/> <img src="/_pages/pics/iros2019-vlp16.gif" alt="drawing" width="400"/> -->
+    <img src="/_pages/pics/iros2019-unet.png" alt="drawing" width="800"/>
+    <img src="/_pages/pics/iros2019-ouster.gif" alt="drawing" width="400"/> <img src="/_pages/pics/iros2019-vlp16.gif" alt="drawing" width="400"/>
 </p>
 
 [Underwater Pipe Tracking](https://www.youtube.com/watch?v=CDDewRptzrw) 
@@ -43,9 +42,8 @@ We propose a new approach for traversability mapping with sparse lidar scans col
 
 <p align='center'>
     <img src="/_pages/pics/corl2018-bgk-1.gif" alt="drawing" width="400"/> <img src="/_pages/pics/corl2018-bgk-2.gif" alt="drawing" width="400"/>
-<!--     <img src="/_pages/pics/corl2018-bgk-3.gif" alt="drawing" width="400"/> <img src="/_pages/pics/corl2018-bgk-4.gif" alt="drawing" width="400"/> -->
-<!--     <img src="/_pages/pics/path-planning-garage.gif" alt="drawing" width="400"/> <img src="/_pages/pics/path-planning-stevens.gif" alt="drawing" width="400"/> -->
-    <img src="/_pages/pics/corl2018-bgk-4.gif" alt="drawing" width="400"/> <img src="/_pages/pics/path-planning-garage.gif" alt="drawing" width="400"/>
+    <img src="/_pages/pics/corl2018-bgk-3.gif" alt="drawing" width="400"/> <img src="/_pages/pics/corl2018-bgk-4.gif" alt="drawing" width="400"/>
+    <img src="/_pages/pics/path-planning-garage.gif" alt="drawing" width="400"/> <img src="/_pages/pics/path-planning-stevens.gif" alt="drawing" width="400"/>
 </p>
 
 [Belief Roadmap Search](http://ieeexplore.ieee.org/document/8206425/)
@@ -53,7 +51,7 @@ We propose a new approach for traversability mapping with sparse lidar scans col
 We characterize and propose advances in the technique of Belief Roadmap Search (BRMS), the process of searching a roadmap in belief space for robot motion planning under localization uncertainty. We discuss the conditions required for optimal substructure in the single-source search of a roadmap in belief space, demonstrating that there are several desirable cost functions for which this property cannot be achieved. Practical performance issues of BRMS are discussed, including the implications of a commonly-used anti-cycling rule, and the computational complexity realized in practical applications of the technique. We propose a best-first implementation of BRMS, in contrast to the standard breadth-first implementation, which we show to improve the computational cost of search by up to 49% by eliminating unnecessary node expansions - the mechanics of both approaches are compared in detail. A variety of motion planning examples are explored.
 
 <p align='center'>
-    <img src="/_pages/pics/iros2017-brms.gif" alt="drawing" width="400"/>
+    <img src="/_pages/pics/iros2017-brms.gif" alt="drawing" width="400"/> <img src="/_pages/pics/iros2017-kyno.png" alt="drawing" width="400"/>
 </p>
 
 [Sampling-Based Min-Max Uncertainty Path Planning](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7799326)
@@ -61,7 +59,7 @@ We characterize and propose advances in the technique of Belief Roadmap Search (
 We propose a new sampling-based path planning algorithm, the Min-Max Rapidly Exploring Random Tree (MM-RRT\*), for robot path planning under localization uncertainty. The projected growth of error in a robot's state estimate is curbed by minimizing the maximum state estimate uncertainty encountered on a path. The algorithm builds and maintains a tree that is shared in state space and belief space, with a single belief per robot state. Due to the fact that many states will share the same maximum uncertainty, resulting from a shared parent node, the algorithm uses secondary objective functions to break ties among neighboring nodes with identical maximum uncertainty. The algorithm offers a compelling alternative to sampling-based algorithms with additive cost representations of uncertainty, which will penalize high-precision navigation routes that are longer in duration.
 
 <p align='center'>
-    <img src="/_pages/pics/cdc2016-baseline.gif" alt="drawing" width="250"/> <img src="/_pages/pics/cdc2016-ours.gif" alt="drawing" width="250"/>
+    <img src="/_pages/pics/cdc2016-baseline.gif" alt="drawing" width="300"/> <img src="/_pages/pics/cdc2016-ours.gif" alt="drawing" width="300"/>
 </p>
 
 [Sampling-Based Minimum Risk Path Planning](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7402330&filter=AND%28p_Publication_Number:7396016%29)
