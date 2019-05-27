@@ -17,7 +17,7 @@ We propose a methodology for lidar super-resolution with ground vehicles driving
 
 <p align='center'>
     <img src="/_pages/pics/iros2019-unet.png" alt="drawing" width="600"/>
-    <img src="https://imgur.com/kFi74S4" alt="drawing" width="600"/>
+    <img src="https://i.imgur.com/kFi74S4.gifv" alt="drawing" width="600"/>
 <!--     <img src="/_pages/pics/iros2019-ouster.gif" alt="drawing" width="400"/> <img src="/_pages/pics/iros2019-vlp16.gif" alt="drawing" width="400"/> -->
 </p>
 
