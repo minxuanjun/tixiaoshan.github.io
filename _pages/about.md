@@ -10,7 +10,7 @@ redirect_from:
 
 Who I Am
 ======
-My name is Tixiao Shan. I am currently studying at Stevens Institute of Technology and a lawuful permanent resident living in New York City.
+My name is Tixiao Shan. I am currently studying at Stevens Institute of Technology and a lawful permanent resident living in New York City.
 
 What I’m Up to
 ======
