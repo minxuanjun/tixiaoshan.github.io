@@ -7,9 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-* **T. Shan**, J. Wang, and B. Englot, "Simulation-based Lidar Super-resolution for Ground Vehicles," IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), under review, [Video Attachment.](https://www.youtube.com/watch?v=rNVTpkz2ggY)
-
-* J. Wang, **T. Shan**, and B. Englot, "Virtual Maps for Autonomous Exploration with Pose SLAM," IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), under review, [Video Attachment.](https://youtu.be/apZyhWtNyF0)
+* J. Wang, **T. Shan**, and B. Englot, "Virtual Maps for Autonomous Exploration with Pose SLAM," IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), To appear in October 2019, [Video Attachment.](https://youtu.be/apZyhWtNyF0)
 
 * F. Chen, J. Wang, **T. Shan**, and B. Englot, "Autonomous Exploration Under Uncertainty via Graph Convolutional Networks," International Symposium on Robotics Research, under review.
 
