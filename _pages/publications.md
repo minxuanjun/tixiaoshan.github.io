@@ -12,7 +12,7 @@ Vehicles," Conference on Robot Learning (CoRL), under review.
 
 * J. Wang, **T. Shan**, and B. Englot, "Virtual Maps for Autonomous Exploration with Pose SLAM," IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), November, 2019, [Video Attachment.](https://youtu.be/apZyhWtNyF0)
 
-* F. Chen, J. Wang, **T. Shan**, and B. Englot, "Autonomous Exploration Under Uncertainty via Graph Convolutional Networks," International Symposium on Robotics Research, under review.
+* F. Chen, J. Wang, **T. Shan**, and B. Englot, "Autonomous Exploration Under Uncertainty via Graph Convolutional Networks," International Symposium on Robotics Research, October, 2019.
 
 * J. Wang, **T. Shan**, T. Osedach, and B. Englot, "Deep Learning for Detection and Tracking of Underwater Pipelines using Multibeam Imaging Sonar," IEEE International Conference onRobotics and Automation (ICRA) Workshop, 2019, [Full Text](http://personal.stevens.edu/~benglot/Wang_ICRA_2019_UWPerceptionWorkshop.pdf), [Video Attachment](https://www.youtube.com/watch?v=CDDewRptzrw).
 
