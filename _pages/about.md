@@ -10,7 +10,7 @@ redirect_from:
 
 Who I Am
 ======
-My name is Tixiao Shan. I am a lawful permanent resident living in New York City. Starting from September 2019, I will work as a postdoctoral fellow at MIT Senseable City Lab on the project "[Roboat](http://roboat.org/)", under the supervision of Professor [Daniela Rus](https://www.csail.mit.edu/person/daniela-rus) (CSAIL) and Professor [Carlo Ratti](https://dusp.mit.edu/faculty/carlo-ratti) (Senseable City Lab).
+My name is Tixiao Shan. I am a lawful permanent resident living in New York City. Starting from September 2019, I will work as a postdoctoral associate at MIT Senseable City Lab on the project "[Roboat](http://roboat.org/)", under the supervision of Professor [Daniela Rus](https://www.csail.mit.edu/person/daniela-rus) (CSAIL) and Professor [Carlo Ratti](https://dusp.mit.edu/faculty/carlo-ratti) (Senseable City Lab).
 
 What I’m Up to
 ======
