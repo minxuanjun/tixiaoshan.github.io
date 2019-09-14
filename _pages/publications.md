@@ -7,9 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-* **T. Shan**, J. Wang, F. Chen, P. Szehnher, and B. Englot, “Simulation-based Lidar Super-resolution for Ground
-Vehicles," Conference on Robot Learning (CoRL), under review.
-
 * J. Wang, **T. Shan**, and B. Englot, "Virtual Maps for Autonomous Exploration with Pose SLAM," IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), November, 2019, [Video Attachment.](https://youtu.be/apZyhWtNyF0)
 
 * F. Chen, J. Wang, **T. Shan**, and B. Englot, "Autonomous Exploration Under Uncertainty via Graph Convolutional Networks," International Symposium on Robotics Research, October, 2019.
