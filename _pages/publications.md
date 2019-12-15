@@ -15,7 +15,7 @@ author_profile: true
 
 * K. Doherty, **T. Shan**, J. Wang, and B. Englot, "Learning-aided 3D Occupancy Mapping with Bayesian Generalized Kernel Inference," IEEE Transactions on Robotics (T-RO), DOI:10.1109/TRO.2019.2912487, [Video Attachment](https://youtu.be/SRXLMALpU20).
 
-* J. Wang, **T. Shan**, and B. Englot, "Underwater Terrain Reconstruction from Forward-Looking Sonar Imagery," IEEE International Conference on Robotics and Automation (ICRA), Accepted, To Appear in May 2019. ([Full Text](http://personal.stevens.edu/~benglot/Wang_ICRA_2019.pdf), [Video Attachment](http://personal.stevens.edu/~benglot/Wang_ICRA_2019_video.mp4))
+* J. Wang, **T. Shan**, and B. Englot, "Underwater Terrain Reconstruction from Forward-Looking Sonar Imagery," IEEE International Conference on Robotics and Automation (ICRA), May, 2019. ([Full Text](http://personal.stevens.edu/~benglot/Wang_ICRA_2019.pdf), [Video Attachment](http://personal.stevens.edu/~benglot/Wang_ICRA_2019_video.mp4))
 
 * F. Chen, S. Bai, **T. Shan**, and B. Englot, "Self-Learning Exploration and Mapping for Mobile Robots via Deep Reinforcement Learning," AIAA SciTech Forum, DOI:10.2514/6.2019-0396, 11 pp., January 2019. ([Full Text](http://personal.stevens.edu/~benglot/aiaa2019-Fanfei-Chen.pdf), [Video Attachment](https://www.youtube.com/watch?v=2gNF6efv12s))
 
